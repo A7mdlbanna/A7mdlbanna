@@ -18,8 +18,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/a7mdlbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7mdlbanna" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/A7md_lbanna" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/172069045-a92e926c-257e-4dde-a144-76fc2cbcf895.svg" alt="a7md_lbnna" height="30" width="40" /></a>
-<a href="https://discord.gg/user/937844779964837929/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/172068986-5d2e1869-3f5a-4b6c-a31e-9727dd177203.svg" alt="937844779964837929" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ahmed banna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed banna" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/937844779964837929/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/172068986-5d2e1869-3f5a-4b6c-a31e-9727dd177203.svg" alt="937844779964837929" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17292938/ahmed-banna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed banna" height="30" width="40" /></a>
 <a href="https://fb.com/a7mdlbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a7mdlbanna" height="30" width="40" /></a>
 <a href="https://www.instagram.com/a7md_lbanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a7mdlbanna" height="30" width="40" /></a>
 
