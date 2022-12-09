@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/03oMQYhL4QZiS5jITq/giphy.gif" align="center" alt="Snow" width="1000">
 
-<h4 align="center">I'm a 1st-grade Computer Science student, I'm a passionate learner who's always willing to learn new skills and technologies; I'm currently on Flutter and Databases; I love building apps and enjoy competing with other programmers in problem-solving</h4>
+<h4 align="center">I'm a Computer Science student, I'm a passionate learner who's always willing to learn new skills and technologies; I'm currently on Flutter; I love building apps and know anout new technologies</h4>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
-- 🔭 I’m currently working on [E-Commerce Application](https://github.com/A7mdlbanna/E-Commerce-App)
+- 🔭 I’m currently working on [Glary POS](https://play.google.com/store/apps/details?id=com.glary.pos)
 
 - 🌱 I’m currently learning **Flutter, Dart, Databases, APIs**
 
@@ -14,7 +14,39 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BVoRiq_AjCWz4pjlPFBKJ9It1Am8EjbJ/view?usp=sharing">My Resume</a>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
-<h3 align="left">Connect with me 🚀:</h3>
+<h3 align="left">TOP PROJECTS 🚀:</h3>
+
+# Glary POS
+
+***Mobile and fixed Cashier (Point of Sales) Application
+<br>
+Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
+
+Check on Google Play
+<a href="https://play.google.com/store/apps/details?id=com.glary.pos" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/71278733/206596438-34e41d27-d30e-4f73-9122-009be9b176be.svg" alt="a7mdlbanna" width="60" /></a>
+
+
+# Movies App
+
+***simple app simular to IMDB let you surface all the movies/TvShows with Trending now, categories, sort by, and complete info about specific Show/Actor.
+<br>
+Used: Clean Architecture, Restful API, http request (DIO), State Management(Bloc)***
+
+Check Code [Here](https://github.com/A7mdlbanna/Movies-App/tree/clean_architecture)
+
+# E-Commerce 
+
+***Shopping app that allows you to buy/save/add-to-card items, and login with your account, and update your info.
+<br>
+Used: Clean Architecture, Restful API, http request (DIO), State Management(Bloc)***
+
+Check Code [Here](https://github.com/A7mdlbanna/E-Commerce-App)
+
+
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
+
+<h3 align="left">Connect with me ✉️:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/a7mdlbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7mdlbanna" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/A7md_lbanna" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/172069045-a92e926c-257e-4dde-a144-76fc2cbcf895.svg" alt="a7md_lbnna" height="30" width="40" /></a>
