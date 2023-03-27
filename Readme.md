@@ -3,15 +3,13 @@
 <h4 align="center">I'm a Computer Science student, I'm a passionate learner who's always willing to learn new skills and technologies; I'm currently on Flutter; I love building apps and know anout new technologies</h4>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
-- 🔭 I’m currently working on [Glary POS](https://play.google.com/store/apps/details?id=com.glary.pos)
-
-- 🌱 I’m currently learning **Flutter, Dart, Databases, APIs**
+- 🔭 I’m currently working on [Glary POS](https://play.google.com/store/apps/details?id=com.glary.pos), My Family, and Injaz go
 
 - 💬 Ask me about **Cross-Platfroms, Mobile Development**
 
 - 📫 How to reach me **ahmedbanna200@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BVoRiq_AjCWz4pjlPFBKJ9It1Am8EjbJ/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KcS2RC11Z6deiDm5xYzSBTYm43ZzBsOc/view?usp=sharing">My Resume</a>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
 <h3 align="left">TOP PROJECTS 🚀:</h3>
@@ -24,7 +22,20 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DI
 
 Check on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.glary.pos" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/71278733/206596438-34e41d27-d30e-4f73-9122-009be9b176be.svg" alt="a7mdlbanna" width="60" /></a>
+  <img align="center" src="https://user-images.githubusercontent.com/71278733/228066113-bab17c9a-6999-408b-af98-36311029edfd.png" alt="a7mdlbanna" width="40" /></a>
+  
+  
+# My Family
+
+***App for monitoring family and communicating with family member, add tasks, and plan week-ends
+<br>
+Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
+<p><a href="https://play.google.com/store/apps/details?id=com.myfamily.app" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> <a href="https://appgallery.huawei.com/app/C107901741" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+<!--  <a href="" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a> -->
+<p>
+
+
+
 
 
 # Movies App
