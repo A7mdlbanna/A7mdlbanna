@@ -20,9 +20,8 @@
 <br>
 Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
 
-Check on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.glary.pos" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/71278733/228066113-bab17c9a-6999-408b-af98-36311029edfd.png" alt="a7mdlbanna" width="40" /></a>
+  <img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
   
   
 # My Family
@@ -30,8 +29,7 @@ Check on Google Play
 ***App for monitoring family and communicating with family member, add tasks, and plan week-ends
 <br>
 Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
-<p><a href="https://play.google.com/store/apps/details?id=com.myfamily.app" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> <a href="https://appgallery.huawei.com/app/C107901741" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
-<!--  <a href="" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a> -->
+<p><a href="https://play.google.com/store/apps/details?id=com.myfamily.app" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> <a href="https://appgallery.huawei.com/app/C107901741" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a><a href="https://apps.apple.com/sa/app/my-family/id6446801627" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <p>
 
 
