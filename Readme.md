@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Computer Science student, I'm a passionate learner who's always willing to learn new skills and technologies; I'm currently on Flutter; I love building apps and know anout new technologies</h4>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
-- 🔭 I’m currently working on [Glary POS](https://play.google.com/store/apps/details?id=com.glary.pos), My Family, and Injaz go
+- 🔭 I’m currently working on [Glary POS](https://play.google.com/store/apps/details?id=com.glarypos.app), My Family, and Injaz go
 
 - 💬 Ask me about **Cross-Platfroms, Mobile Development**
 
@@ -20,7 +20,7 @@
 <br>
 Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
 
-<a href="https://play.google.com/store/apps/details?id=com.glary.pos" target="blank">
+<a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
   
   
