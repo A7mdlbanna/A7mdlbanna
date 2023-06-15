@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Computer Science student, I'm a passionate learner who's always willing to learn new skills and technologies; I'm currently on Flutter; I love building apps and know anout new technologies</h4>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
-- 🔭 I’m currently working on [Glary POS](https://play.google.com/store/apps/details?id=com.glarypos.app), My Family, and Injaz go
+- 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), [My Family](https://github.com/A7mdlbanna#my-family), and Injaz go
 
 - 💬 Ask me about **Cross-Platfroms, Mobile Development**
 
