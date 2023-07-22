@@ -18,7 +18,7 @@
 
 ***Mobile and fixed Cashier (Point of Sales) Application
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
+Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
 
 <a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
@@ -55,6 +55,15 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DI
 <p>
 
 
+
+
+# Rozm
+
+***Fintech app that allows you to transfer money to any Rozm user, pay your bills and purchase goods from your balance or credit and much more..
+<br>
+Used: Clean Architecture, Restful API, http request (DIO), State Management(Bloc)***
+
+Check Demo [Here](https://drive.google.com/drive/folders/1obm9kEhu458NNnMGsuOjesqiRa5BHrBQ?usp=drive_link)
 
 
 # Movies App
