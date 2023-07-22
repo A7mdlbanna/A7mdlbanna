@@ -14,6 +14,7 @@
 
 <h3 align="left">TOP PROJECTS 🚀:</h3>
 
+
 # Glary POS
 
 ***Mobile and fixed Cashier (Point of Sales) Application
@@ -23,6 +24,7 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DI
 <a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
   
+
   
 # My Family
 
@@ -64,6 +66,20 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DI
 Used: Clean Architecture, Restful API, http request (DIO), State Management(Bloc)***
 
 Check Demo [Here](https://drive.google.com/drive/folders/1obm9kEhu458NNnMGsuOjesqiRa5BHrBQ?usp=drive_link)
+
+
+
+
+# Nadimek
+
+***Appointments reservation for clients, employees and clinic owner 
+<br>
+Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
+
+<a href="https://play.google.com/store/apps/details?id=com.clinicali.nadimak" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
+  
+
 
 
 # Movies App
