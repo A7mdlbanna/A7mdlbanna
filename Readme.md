@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), [My Family](https://github.com/A7mdlbanna#my-family), and Injaz go
 
-- 💬 Ask me about **Cross-Platfroms, Mobile Development**
+- 💬 Ask me about **Cross-Platforms, Mobile Development**
 
 - 📫 How to reach me **ahmedbanna200@gmail.com**
 
@@ -19,18 +19,27 @@
 
 ***Mobile and fixed Cashier (Point of Sales) Application
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
+Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
 
 <a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
-  
+
+# Glary-MC
+
+***Mobile and fixed Cashier (Point of Sales) Application
+<br>
+Used: FCM & Push Notifications, Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
+
+<a href="https://play.google.com/store/apps/details?id=loai.glary.sa" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
+<!-- <a href="https://apps.apple.com/sa/app/my-family/id6446801627" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a> -->
+
 
   
 # My Family
 
-***App for monitoring family and communicating with family member, add tasks, and plan week-ends
+***App for monitoring family and communicating with family members, adding tasks, and planning weekends
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
+Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc).***
 <p>
   Parent: 
   
@@ -63,7 +72,7 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DI
 
 ***Fintech app that allows you to transfer money to any Rozm user, pay your bills and purchase goods from your balance or credit and much more..
 <br>
-Used: Clean Architecture, Restful API, http request (DIO), State Management(Bloc)***
+Used: Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc)***
 
 Check Demo [Here](https://drive.google.com/drive/folders/1obm9kEhu458NNnMGsuOjesqiRa5BHrBQ?usp=drive_link)
 
@@ -72,9 +81,9 @@ Check Demo [Here](https://drive.google.com/drive/folders/1obm9kEhu458NNnMGsuOjes
 
 # Nadimek
 
-***Appointments reservation for clients, employees and clinic owner 
+***Appointments reservation for clients, employees, and clinic owner 
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DIO), State Management(Bloc).***
+Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc).***
 
 <a href="https://play.google.com/store/apps/details?id=com.clinicali.nadimak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200" /></a>
   
@@ -90,17 +99,17 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, http request (DI
 
 # Movies App
 
-***simple app simular to IMDB let you surface all the movies/TvShows with Trending now, categories, sort by, and complete info about specific Show/Actor.
+***Simple app similar to IMDB lets you surface all the movies/TV shows with Trending now, categories, sort by, and complete info about a specific Show/Actor.
 <br>
-Used: Clean Architecture, Restful API, http request (DIO), State Management(Bloc)***
+Used: Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc)***
 
 Check Code [Here](https://github.com/A7mdlbanna/Movies-App/tree/clean_architecture)
 
 # E-Commerce 
 
-***Shopping app that allows you to buy/save/add-to-card items, and login with your account, and update your info.
+***Shopping app that allows you to buy/save/add-to-card items, log in with your account, and update your info.
 <br>
-Used: Clean Architecture, Restful API, http request (DIO), State Management(Bloc)***
+Used: Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc)***
 
 Check Code [Here](https://github.com/A7mdlbanna/E-Commerce-App)
 
