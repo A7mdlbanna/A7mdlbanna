@@ -22,8 +22,8 @@
 Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
 
 <a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank"><img src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
+<a href="https://apps.apple.com/us/app/pos-glary/id6450933028" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://www.microsoft.com/store/productId/9PKW4K2QBKHX" target="_blank"><img alt="Microsoft Store" src=https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png width="200"/></a>
-<!-- <a href="https://apps.apple.com/sa/app/my-family/id6446801627" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a> -->
 
 # Glary-MC
 
@@ -32,7 +32,7 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DI
 Used: FCM & Push Notifications, Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
 
 <a href="https://play.google.com/store/apps/details?id=loai.glary.sa" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
-
+<a href="https://apps.apple.com/us/app/%D9%82%D9%84%D8%A7%D8%B1%D9%8A-%D9%84%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/id6470380005" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 
   
 # My Family
