@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/03oMQYhL4QZiS5jITq/giphy.gif" align="center" alt="Snow" width="1000">
 
-<h4 align="center">I'm a Computer Science student, I'm a passionate learner who's always willing to learn new skills and technologies; I'm currently on Flutter; I love building apps and know anout new technologies</h4>
+<h4 align="center">I'm a Senior Flutter Developer, always seeking new challenges and opportunities to innovate; I love building apps and exploring new technologies</h4>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
-- 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), [My Family](https://github.com/A7mdlbanna#my-family), and Injaz go
+- 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), [Sherbo Assistant](https://github.com/A7mdlbanna#sherbo-assistant)
 
 - 💬 Ask me about **Cross-Platforms, Mobile Development**
 
@@ -19,11 +19,39 @@
 
 ***Mobile and fixed Cashier (Point of Sales) Application
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
+Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay NFC, geidea).***
 
 <a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank"><img src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
 <a href="https://apps.apple.com/us/app/pos-glary/id6450933028" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://www.microsoft.com/store/productId/9PKW4K2QBKHX" target="_blank"><img alt="Microsoft Store" src=https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png width="200"/></a>
+
+# Sherbo Assistant
+
+***An Application for Mr. Omar El-Sherbiny’s work system allowing students and assistants to connect with each other in an organized way
+<br>
+Used: Socket.IO, FCM (Firebase Cloud Messaging), Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc).***
+
+<a href="https://play.google.com/store/apps/details?id=com.custom_mind.sherbo_ai" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a>
+<a href="https://apps.apple.com/us/app/sherbo-assistant/id6464474169" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
+<a href="https://appgallery.huawei.com/app/C110116431" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+
+# Ag Atelier
+
+***Is a Saudi Brand that tempts to display high-quality clothes for high-quality ladies***
+
+<!--a href="" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a-->
+<a href="https://apps.apple.com/us/app/ag-atelier/id1662371496" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
+<a href="https://appgallery.huawei.com/app/C108562419" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+<!--a href="https://www.microsoft.com/store/productId/9NT8JFGN7X2G?ocid=pdpshare" target="_blank"><img alt="Microsoft Store" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png" width="200"/></a-->
+
+# Expect the Winner
+
+***Is an expectations app that allows you to expect your favorite team score and win prizes***
+
+<!--a href="" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a-->
+<a href="https://apps.apple.com/us/app/expect-the-winner/id6448974950" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
+<a href="https://appgallery.huawei.com/app/C108562535" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+<a href="https://www.microsoft.com/store/productId/9NT8JFGN7X2G?ocid=pdpshare" target="_blank"><img alt="Microsoft Store" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png" width="200"/></a>
 
 # Glary-MC
 
@@ -43,24 +71,24 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DI
 <p>
   Parent: 
   
-<a href="https://play.google.com/store/apps/details?id=com.myfamily.parentP" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
-<a href="https://appgallery.huawei.com/app/C107901741" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+<!--a href="https://play.google.com/store/apps/details?id=com.myfamily.parentP" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
+<a href="https://appgallery.huawei.com/app/C107901741" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a-->
 <a href="https://apps.apple.com/sa/app/my-family/id6446801627" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://www.microsoft.com/store/productId/9N7N65J0ZW31" target="_blank"><img alt="Microsoft Store" src=https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png width="200"/></a>
 <p>
 <p>
   Helper: 
   
-<a href="https://play.google.com/store/apps/details?id=com.myfamily.helperP" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
-<a href="https://appgallery.huawei.com/app/C108171001" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+<!--a href="https://play.google.com/store/apps/details?id=com.myfamily.helperP" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
+<a href="https://appgallery.huawei.com/app/C108171001" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a-->
 <a href="https://apps.apple.com/us/app/my-family-helpers/id6448863661" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://www.microsoft.com/store/productId/9NG88Z6RQK7C" target="_blank"><img alt="Microsoft Store" src=https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png width="200"/></a>
 <p>
 <p>
   Child: 
   
-<a href="https://play.google.com/store/apps/details?id=com.myfamily.childP" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
-<a href="https://appgallery.huawei.com/app/C108215399" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+<!--a href="https://play.google.com/store/apps/details?id=com.myfamily.childP" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
+<a href="https://appgallery.huawei.com/app/C108215399" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a-->
 <a href="https://apps.apple.com/sa/app/my-family-child/id6448718227" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://www.microsoft.com/store/productId/9N7MM05ZNQMH" target="_blank"><img alt="Microsoft Store" src=https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png width="200"/></a>
 <p>
@@ -85,7 +113,7 @@ Check Demo [Here](https://drive.google.com/drive/folders/1obm9kEhu458NNnMGsuOjes
 <br>
 Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc).***
 
-<a href="https://play.google.com/store/apps/details?id=com.clinicali.nadimak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200" /></a>
+<!--a href="https://play.google.com/store/apps/details?id=com.clinicali.nadimak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200" /></a-->
   
 
 
