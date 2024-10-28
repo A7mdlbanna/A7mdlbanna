@@ -19,7 +19,7 @@
 
 ***Mobile and fixed Cashier (Point of Sales) Application
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay NFC, geidea).***
+Used: Clean Architecture, Responsive and Adaptive, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay NFC, geidea).***
 
 <a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank"><img src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
 <a href="https://apps.apple.com/us/app/pos-glary/id6450933028" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
@@ -29,11 +29,24 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DI
 
 ***An Application for Mr. Omar El-Sherbiny’s work system allowing students and assistants to connect with each other in an organized way
 <br>
-Used: Socket.IO, FCM (Firebase Cloud Messaging), Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc).***
+Used: Socket.IO, FCM & Push Notifications, Clean Architecture, HTTP request (DIO), State Management(Bloc).***
 
 <a href="https://play.google.com/store/apps/details?id=com.custom_mind.sherbo_ai" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a>
 <a href="https://apps.apple.com/us/app/sherbo-assistant/id6464474169" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://appgallery.huawei.com/app/C110116431" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+
+# ICure
+
+***is a healthcare app connecting doctors, patients, and nurses for easy appointment scheduling, home care, and secure video consultations
+<br>
+Used: Streaming Video Calls, Socket.IO, FCM & Push Notifications, Clean Architecture, HTTP request (DIO), State Management(Bloc).***
+
+Check Demo [Here](https://drive.google.com/drive/folders/1E6h53uu5ohx7cjYWaKvwQUeTbdxoIo9Z?usp=sharing)
+
+<!--a href="" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a-->
+<!--a href="https://apps.apple.com/us/app/ag-atelier/id1662371496" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a-->
+<!--a href="https://appgallery.huawei.com/app/C108562419" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a-->
+<!--a href="https://www.microsoft.com/store/productId/9NT8JFGN7X2G?ocid=pdpshare" target="_blank"><img alt="Microsoft Store" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png" width="200"/></a-->
 
 # Ag Atelier
 
@@ -57,7 +70,7 @@ Used: Socket.IO, FCM (Firebase Cloud Messaging), Clean Architecture, Restful API
 
 ***Mobile and fixed Cashier (Point of Sales) Application
 <br>
-Used: FCM & Push Notifications, Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
+Used: FCM & Push Notifications, Clean Architecture, HTTP request (DIO), State Management(Bloc), Payment Integration (Nearpay).***
 
 <a href="https://play.google.com/store/apps/details?id=loai.glary.sa" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png"  width="200"/></a> 
 <a href="https://apps.apple.com/us/app/%D9%82%D9%84%D8%A7%D8%B1%D9%8A-%D9%84%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/id6470380005" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
@@ -67,7 +80,7 @@ Used: FCM & Push Notifications, Clean Architecture, Restful API, HTTP request (D
 
 ***App for monitoring family and communicating with family members, adding tasks, and planning weekends
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc).***
+Used: Socket.IO, FCM & Push Notifications, Clean Architecture, Responsive and Adaptive, HTTP request (DIO), State Management(Bloc).***
 <p>
   Parent: 
   
@@ -111,7 +124,7 @@ Check Demo [Here](https://drive.google.com/drive/folders/1obm9kEhu458NNnMGsuOjes
 
 ***Appointments reservation for clients, employees, and clinic owner 
 <br>
-Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DIO), State Management(Bloc).***
+Used: Clean Architecture, Responsive and Adaptive, HTTP request (DIO), State Management(Bloc).***
 
 <!--a href="https://play.google.com/store/apps/details?id=com.clinicali.nadimak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200" /></a-->
   
@@ -121,7 +134,7 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DI
 
 ***Reservation for Hotels, Weddings, and Chalets.***
 
-<a href="https://play.google.com/store/apps/details?id=com.seyaha.iraq" target="blank"> <img alt="Play Store" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200" /></a>
+<!--a href="https://play.google.com/store/apps/details?id=com.seyaha.iraq" target="blank"> <img alt="Play Store" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200" /></a-->
 <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D8%AD%D8%AC%D8%B2-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/id6451325580" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 
 
@@ -129,7 +142,7 @@ Used: Clean Architecture, Responsive and Adaptive, Restful API, HTTP request (DI
 
 ***Simple app similar to IMDB lets you surface all the movies/TV shows with Trending now, categories, sort by, and complete info about a specific Show/Actor.
 <br>
-Used: Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc)***
+Used: Clean Architecture, HTTP request (DIO), State Management(Bloc)***
 
 Check Code [Here](https://github.com/A7mdlbanna/Movies-App/tree/clean_architecture)
 
@@ -137,7 +150,7 @@ Check Code [Here](https://github.com/A7mdlbanna/Movies-App/tree/clean_architectu
 
 ***Shopping app that allows you to buy/save/add-to-card items, log in with your account, and update your info.
 <br>
-Used: Clean Architecture, Restful API, HTTP request (DIO), State Management(Bloc)***
+Used: Clean Architecture, HTTP request (DIO), State Management(Bloc)***
 
 Check Code [Here](https://github.com/A7mdlbanna/E-Commerce-App)
 
