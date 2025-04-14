@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Senior Flutter Developer, always seeking new challenges and opportunities to innovate; I love building apps and exploring new technologies</h4>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
-- 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), [Sherbo Assistant](https://github.com/A7mdlbanna#sherbo-assistant)
+- 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), [Wadjet GO](https://github.com/A7mdlbanna#wadjet-go), Auctus
 
 - 💬 Ask me about **Cross-Platforms, Mobile Development**
 
@@ -24,6 +24,14 @@ Used: Clean Architecture, Responsive and Adaptive, HTTP request (DIO), State Man
 <a href="https://play.google.com/store/apps/details?id=com.glarypos.app" target="blank"><img src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" alt="a7mdlbanna" width="200" /></a>
 <a href="https://apps.apple.com/us/app/pos-glary/id6450933028" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://www.microsoft.com/store/productId/9PKW4K2QBKHX" target="_blank"><img alt="Microsoft Store" src=https://github-production-user-asset-6210df.s3.amazonaws.com/71278733/245941803-f3d110e9-571b-4534-b220-c7da8fa3201b.png width="200"/></a>
+
+# Wadjet GO
+
+***Combining gamified offers with interactive experiences, users can explore a map, find deals, and collect tokens near their favorite restaurants and cafes.
+<br>
+Used: Payment Gatways, Maps, Pusher, FCM & Push Notifications, Clean Architecture***
+
+<a href="https://play.google.com/store/apps/details?id=com.goodgame.wadjetapp" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a>
 
 # Sherbo Assistant
 
