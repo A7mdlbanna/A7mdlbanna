@@ -38,11 +38,19 @@ Used: Payment Gatways, Maps, Pusher, FCM & Push Notifications, Clean Architectur
 
 ***An Application for Mr. Omar El-Sherbiny’s work system allowing students and assistants to connect with each other in an organized way
 <br>
-Used: Socket.IO, FCM & Push Notifications, Clean Architecture, HTTP request (DIO), State Management(Bloc).***
+Used: Socket.IO, FCM & Push Notifications, Clean Architecture, State Management(Bloc).***
 
 <a href="https://play.google.com/store/apps/details?id=com.custom_mind.sherbo_ai" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a>
 <a href="https://apps.apple.com/us/app/sherbo-assistant/id6464474169" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 <a href="https://appgallery.huawei.com/app/C110116431" target="_blank"><img alt="App Gallery" src="https://user-images.githubusercontent.com/71278733/228071116-7f5073a2-f785-4ea2-8ad2-1de1e9365987.png" width="200"/></a>
+
+# Auctus
+
+***A smart task and time-management app that helps users organize tasks, group them into projects, and visualize everything on a dynamic calendar. It syncs seamlessly with Google Calendar and includes an AI-powered assistant that learns user habits, prioritizes tasks, and suggests smarter ways to manage time.
+<br>
+Used: Google Calendar API, Socket.IO, FCM & Push Notifications, Clean Architecture, State Management(Bloc).***
+
+<a href="https://play.google.com/store/apps/details?id=com.auctus.app" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a>
 
 # ICure
 
