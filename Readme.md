@@ -34,6 +34,15 @@ Used: Payment Gatways, Maps, Pusher, FCM & Push Notifications, Clean Architectur
 <a href="https://play.google.com/store/apps/details?id=com.goodgame.wadjetapp" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a>
 <a href="https://apps.apple.com/us/app/wadjet-go/id6741712058" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
 
+# Techsup Time Track
+
+***Tracking and task management app for managers and employees, focused on real-time activity tracking and productivity insights.
+<br>
+Used: Real-Time Location Tracking, Biometric Check In/Out, Socket.IO, FCM & Push Notifications, Clean Architecture***
+
+<a href="https://play.google.com/store/apps/details?id=techsuptime.track" target="_blank"><img alt="Google Play" src="https://user-images.githubusercontent.com/71278733/228071001-8a1725ce-cbe6-4efa-afe2-bdddf5282ef6.png" width="200"/></a>
+<a href="https://apps.apple.com/us/app/wadjet-go/id1367895784" target="_blank"><img alt="App Store" src="https://user-images.githubusercontent.com/71278733/232999423-ea21b982-46c6-4758-894c-ecf505c105b5.png" width="200"/></a>
+
 # Sherbo Assistant
 
 ***An Application for Mr. Omar El-Sherbiny’s work system allowing students and assistants to connect with each other in an organized way
