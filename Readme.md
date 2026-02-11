@@ -1,9 +1,12 @@
 <img src="https://media.giphy.com/media/03oMQYhL4QZiS5jITq/giphy.gif" align="center" alt="Snow" width="1000">
 
-<h4 align="center">I'm a Senior Flutter Developer, always seeking new challenges and opportunities to innovate; I love building apps and exploring new technologies</h4>
+<h4 align="center">Senior Flutter Developer with hands-on experience building, maintaining, and scaling mobile applications.
+I work with Flutter to create scalable Android & iOS apps, integrate APIs, and solve complex technical problems with clean, maintainable solutions.
+I’ve worked with companies across Saudi Arabia, Australia, and Egypt, contributing to apps from early development to release and post-launch support.
+Currently open to challenging Flutter roles where I can add value and grow.</h4>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
-- 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), [Wadjet GO](https://github.com/A7mdlbanna#wadjet-go), Auctus
+- 🔭 I’m currently working on [Glary POS](https://github.com/A7mdlbanna#glary-pos), Mirado
 
 - 💬 Ask me about **Cross-Platforms, Mobile Development**
 
